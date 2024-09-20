@@ -4,7 +4,7 @@ import Link from "next/link"
 const Links = [
     {
         name: 'Home',
-        path: '/',
+        path: '#home',
     },
     {
         name: 'Services',
